@@ -24,7 +24,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.prolobjectlink.prolog.jiprolog;
+package io.github.prolobjectlink.prolog.jiprolog;
 
 import java.util.Collection;
 import java.util.concurrent.TimeUnit;
@@ -43,13 +43,15 @@ import org.openjdk.jmh.runner.Runner;
 import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
-import org.prolobjectlink.prolog.AbstractBenchmarkRunner;
-import org.prolobjectlink.prolog.BenchmarkRunner;
-import org.prolobjectlink.prolog.Prolog;
-import org.prolobjectlink.prolog.PrologEngine;
-import org.prolobjectlink.prolog.PrologProvider;
-import org.prolobjectlink.prolog.PrologTerm;
-import org.prolobjectlink.prolog.PrologVariable;
+
+import io.github.prolobjectlink.prolog.AbstractBenchmarkRunner;
+import io.github.prolobjectlink.prolog.BenchmarkRunner;
+import io.github.prolobjectlink.prolog.Prolog;
+import io.github.prolobjectlink.prolog.PrologEngine;
+import io.github.prolobjectlink.prolog.PrologProvider;
+import io.github.prolobjectlink.prolog.PrologTerm;
+import io.github.prolobjectlink.prolog.PrologVariable;
+import io.github.prolobjectlink.prolog.jiprolog.JiProlog;
 
 /**
  *
