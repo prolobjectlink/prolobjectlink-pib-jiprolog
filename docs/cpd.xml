@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+<duplication lines="7" tokens="105">
+<file line="534" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<file line="541" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<codefragment>
+<![CDATA[
+					provider.newStructure("env11", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+							provider.newVariable("Z", 2)), // :-
+					provider.newStructure("env12", provider.newVariable("Z", 0), provider.newVariable("Y", 1),
+							provider.newVariable("X", 2)),
+					provider.newStructure("env12", provider.newVariable("Y", 0), provider.newVariable("Z", 1),
+							provider.newVariable("X", 2)));
+			engine.assertz(provider.newStructure("env12", provider.newVariable("_X", 0), provider.newVariable("_Y", 1),
+]]>
+</codefragment>
+</duplication>
+<duplication lines="8" tokens="105">
+<file line="513" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<file line="520" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<codefragment>
+<![CDATA[
+					provider.newStructure("env8", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+							provider.newVariable("Z", 2)), // :-
+					provider.newStructure("env9", provider.newVariable("Z", 0), provider.newVariable("Y", 1),
+							provider.newVariable("X", 2)),
+					provider.newStructure("env10", provider.newVariable("Y", 0), provider.newVariable("Z", 1),
+							provider.newVariable("X", 2)));
+			engine.assertz(
+					provider.newStructure("env9", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+]]>
+</codefragment>
+</duplication>
+<duplication lines="8" tokens="105">
+<file line="499" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<file line="506" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<codefragment>
+<![CDATA[
+					provider.newStructure("env6", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+							provider.newVariable("Z", 2)), // :-
+					provider.newStructure("env7", provider.newVariable("Z", 0), provider.newVariable("Y", 1),
+							provider.newVariable("X", 2)),
+					provider.newStructure("env8", provider.newVariable("Y", 0), provider.newVariable("Z", 1),
+							provider.newVariable("X", 2)));
+			engine.assertz(
+					provider.newStructure("env7", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+]]>
+</codefragment>
+</duplication>
+<duplication lines="8" tokens="105">
+<file line="485" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<file line="492" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<codefragment>
+<![CDATA[
+					provider.newStructure("env4", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+							provider.newVariable("Z", 2)), // :-
+					provider.newStructure("env5", provider.newVariable("Z", 0), provider.newVariable("Y", 1),
+							provider.newVariable("X", 2)),
+					provider.newStructure("env6", provider.newVariable("Y", 0), provider.newVariable("Z", 1),
+							provider.newVariable("X", 2)));
+			engine.assertz(
+					provider.newStructure("env5", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+]]>
+</codefragment>
+</duplication>
+<duplication lines="8" tokens="105">
+<file line="471" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<file line="478" path="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java"/>
+<codefragment>
+<![CDATA[
+					provider.newStructure("env2", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+							provider.newVariable("Z", 2)), // :-
+					provider.newStructure("env3", provider.newVariable("Z", 0), provider.newVariable("Y", 1),
+							provider.newVariable("X", 2)),
+					provider.newStructure("env4", provider.newVariable("Y", 0), provider.newVariable("Z", 1),
+							provider.newVariable("X", 2)));
+			engine.assertz(
+					provider.newStructure("env3", provider.newVariable("X", 0), provider.newVariable("Y", 1),
+]]>
+</codefragment>
+</duplication>
+</pmd-cpd>

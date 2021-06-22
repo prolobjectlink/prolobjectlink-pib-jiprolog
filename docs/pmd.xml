@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2021-06-22T15:55:29.946">
+<file name="C:\Users\Jose Zalacain\Documents\eclipse-java-photon-workspace\prolobjectlink-pib-jiprolog\src\main\java\io\github\prolobjectlink\prolog\jiprolog\JiPrologBenchmarkRunner.java">
+<violation beginline="136" endline="136" begincolumn="40" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="c1" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'c1'.
+</violation>
+<violation beginline="138" endline="138" begincolumn="40" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="c2" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'c2'.
+</violation>
+<violation beginline="140" endline="140" begincolumn="36" endcolumn="39" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="left" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'left'.
+</violation>
+<violation beginline="141" endline="141" begincolumn="36" endcolumn="40" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="rigth" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'rigth'.
+</violation>
+<violation beginline="150" endline="150" begincolumn="40" endcolumn="40" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="c" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'c'.
+</violation>
+<violation beginline="151" endline="151" begincolumn="40" endcolumn="40" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="d" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="152" endline="152" begincolumn="40" endcolumn="40" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="p" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'p'.
+</violation>
+<violation beginline="153" endline="153" begincolumn="40" endcolumn="40" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="io.github.prolobjectlink.prolog.jiprolog" class="JiPrologBenchmarkRunner$ExecutionPlan" method="setUp" variable="a" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'a'.
+</violation>
+</file>
+</pmd>
